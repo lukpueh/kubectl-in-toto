@@ -48,4 +48,4 @@ container.
 
 # Credit
 
-This was very heavily based off of [stefanprodan's kubectl-kubesec plugin](https://github.com/stefanprodan/kubectl-in-toto)
+This was very heavily based off of [stefanprodan's kubectl-kubesec plugin](https://github.com/stefanprodan/kubectl-kubesec)
